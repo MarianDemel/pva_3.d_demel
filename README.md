@@ -9,7 +9,7 @@
 - ***úvodní hodina***
 - [demel.html](https://mariandemel.github.io/pva_3.d_demel/html1/demel.html)
 - [repozitář](https://github.com/MarianDemel/pva_3.d_demel/blob/main/html1/demel.html)
-- [další cvičení](https://github.com/MarianDemel/pva_3.d_demel/tree/main/html1)
+- [další soubory](https://github.com/MarianDemel/pva_3.d_demel/tree/main/html1)
 
 ## html2
 ### 13.09.2024
