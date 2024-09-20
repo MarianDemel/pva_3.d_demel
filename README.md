@@ -17,7 +17,7 @@
 - [cvičení – Verze Windows](https://mariandemel.github.io/pva_3.d_demel/html2/tabulky.html)
 - [repozitář](https://github.com/MarianDemel/pva_3.d_demel/blob/main/html2/tabulky.html)
 
-## css1
+## úvod do css
 ### 20.09.2024
 - [prvotní úpravy 1](https://mariandemel.github.io/pva_3.d_demel/css1/0920_html.html)
 - [repo](https://github.com/MarianDemel/pva_3.d_demel/blob/main/css1/0920_html.html)
