@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cc5f855-eb73-4f95-a8a2-f2213f4e9110" name="Changes" comment="první commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html3/0920_html.html" beforeDir="false" afterPath="$PROJECT_DIR$/css1/0920_html.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html3/0920_html_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/css1/0920_html_2.html" afterDir="false" />
+    <list default="true" id="5cc5f855-eb73-4f95-a8a2-f2213f4e9110" name="Changes" comment="úpravy">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +50,7 @@
       <updated>1726826174555</updated>
       <workItem from="1726826176039" duration="577000" />
       <workItem from="1726840391000" duration="141000" />
-      <workItem from="1726840935171" duration="1329000" />
+      <workItem from="1726840935171" duration="1745000" />
     </task>
     <task id="LOCAL-00001" summary="první commit">
       <option name="closed" value="true" />
@@ -62,7 +60,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726826196114</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="úpravy">
+      <option name="closed" value="true" />
+      <created>1726842996457</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726842996457</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,6 +76,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="první commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="první commit" />
+    <MESSAGE value="úpravy" />
+    <option name="LAST_COMMIT_MESSAGE" value="úpravy" />
   </component>
 </project>
