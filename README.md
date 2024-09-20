@@ -7,13 +7,14 @@
 - [demel.html](https://mariandemel.github.io/pva_3.d_demel/html1/demel.html)
 - [repozitář](https://github.com/MarianDemel/pva_3.d_demel/blob/main/html1/demel.html)
 - [další cvičení](https://github.com/MarianDemel/pva_3.d_demel/tree/main/html1)
+
 ## html2
 ### 13.09.2024
 - ***tabulky***
 - [cvičení – Verze Windows](https://mariandemel.github.io/pva_3.d_demel/html2/tabulky.html)
 - [repozitář](https://github.com/MarianDemel/pva_3.d_demel/blob/main/html2/tabulky.html)
 
-## Úvod do kaskádových stylů (CSS)
+## css1
 ### 20.09.2024
 - [prvotní úpravy 1](https://mariandemel.github.io/pva_3.d_demel/css1/0920_html.html)
 - [repo](https://github.com/MarianDemel/pva_3.d_demel/blob/main/css1/0920_html.html)
