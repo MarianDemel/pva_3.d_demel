@@ -1,6 +1,7 @@
 # Projekty ročníku 3.D
 
-## Všechny soubory jsou v [tomto](https://github.com/MarianDemel/pva_3.d_demel) repozitáři
+## Všechny soubory jsou v [tomto](https://github.com/MarianDemel/pva_3.d_demel) repozitáři.
+
 
 ## html1
 
