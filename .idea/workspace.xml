@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cc5f855-eb73-4f95-a8a2-f2213f4e9110" name="Changes" comment="úpravy">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="5cc5f855-eb73-4f95-a8a2-f2213f4e9110" name="Changes" comment="úpravy" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +48,7 @@
       <updated>1726826174555</updated>
       <workItem from="1726826176039" duration="577000" />
       <workItem from="1726840391000" duration="141000" />
-      <workItem from="1726840935171" duration="1745000" />
+      <workItem from="1726840935171" duration="2019000" />
     </task>
     <task id="LOCAL-00001" summary="první commit">
       <option name="closed" value="true" />
@@ -68,7 +66,47 @@
       <option name="project" value="LOCAL" />
       <updated>1726842996457</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="úpravy">
+      <option name="closed" value="true" />
+      <created>1726843099045</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726843099045</updated>
+    </task>
+    <task id="LOCAL-00004" summary="úpravy">
+      <option name="closed" value="true" />
+      <created>1726843207823</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726843207823</updated>
+    </task>
+    <task id="LOCAL-00005" summary="úpravy">
+      <option name="closed" value="true" />
+      <created>1726843228884</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726843228884</updated>
+    </task>
+    <task id="LOCAL-00006" summary="úpravy">
+      <option name="closed" value="true" />
+      <created>1726843305861</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726843305861</updated>
+    </task>
+    <task id="LOCAL-00007" summary="úpravy">
+      <option name="closed" value="true" />
+      <created>1726843330944</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726843330944</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
