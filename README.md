@@ -15,8 +15,8 @@
 
 ## Úvod do kaskádových stylů (CSS)
 ### 20.09.2024
-- [prvotní úpravy 1](https://mariandemel.github.io/pva_3.d_demel/html1/0920_html.html)
+- [prvotní úpravy 1](https://mariandemel.github.io/pva_3.d_demel/css1/0920_html.html)
 - [repo](https://github.com/MarianDemel/pva_3.d_demel/blob/main/css1/0920_html.html)
 - [prvotní úpravy 2](https://mariandemel.github.io/pva_3.d_demel/html1/0920_html_2.html)
-- [repo](https://github.com/MarianDemel/pva_3.d_demel/blob/main/css1/0920_html_2.html)
+- [repo](https://github.com/MarianDemel/pva_3.d_demel/blob/main/css2/0920_html_2.html)
 
