@@ -1,5 +1,7 @@
 # Projekty ročníku 3.D
 
+## Všechny soubory jsou v [tomto](https://github.com/MarianDemel/pva_3.d_demel) repozitáři
+
 ## html1
 
 ### 10.09.2024
@@ -20,4 +22,3 @@
 - [repo](https://github.com/MarianDemel/pva_3.d_demel/blob/main/css1/0920_html.html)
 - [prvotní úpravy 2](https://mariandemel.github.io/pva_3.d_demel/css1/0920_html_2.html)
 - [repo](https://github.com/MarianDemel/pva_3.d_demel/blob/main/css1/0920_html_2.html)
-
