@@ -26,5 +26,9 @@
 
 ## úvod do formulářů
 ### 24.09.2024
+- ***úkol z hodiny***
 - [demel.html](https://mariandemel.github.io/pva_3.d_demel/formular/demel.html)
 - [repo](https://github.com/MarianDemel/pva_3.d_demel/blob/main/formular/demel.html)
+- ***Input Type Range***
+- [form.html](https://mariandemel.github.io/pva_3.d_demel/formular/form.html)
+- [repo](https://github.com/MarianDemel/pva_3.d_demel/blob/main/formular/form.html)
