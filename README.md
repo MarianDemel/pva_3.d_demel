@@ -32,3 +32,10 @@
 - ***Input Type Range***
 - [form.html](https://mariandemel.github.io/pva_3.d_demel/formular/form.html)
 - [repo](https://github.com/MarianDemel/pva_3.d_demel/blob/main/formular/form.html)
+
+## formuláře, divy, třídy a ID
+### 27.09.2024
+- ***úkol z hodiny***
+- [demel.html](https://mariandemel.github.io/pva_3.d_demel/id_a_class/demel.html)
+- vysvětlivky
+- [vysvetlivky.html](https://mariandemel.github.io/pva_3.d_demel/id_a_class/vysvetlivky.html)

@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cc5f855-eb73-4f95-a8a2-f2213f4e9110" name="Changes" comment="úvod do formulářů">
+    <list default="true" id="5cc5f855-eb73-4f95-a8a2-f2213f4e9110" name="Changes" comment="input type range">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formular/demel.html" beforeDir="false" afterPath="$PROJECT_DIR$/formular/demel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formular/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/formular/form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html1/odrazky.html" beforeDir="false" afterPath="$PROJECT_DIR$/html1/odrazky.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +58,8 @@
       <workItem from="1726846890915" duration="30000" />
       <workItem from="1727172249091" duration="1992000" />
       <workItem from="1727194995863" duration="54000" />
+      <workItem from="1727265198757" duration="208000" />
+      <workItem from="1727422541075" duration="360000" />
     </task>
     <task id="LOCAL-00001" summary="první commit">
       <option name="closed" value="true" />
@@ -127,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727175820139</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="input type range">
+      <option name="closed" value="true" />
+      <created>1727265389614</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1727265389614</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +152,7 @@
     <MESSAGE value="úpravy" />
     <MESSAGE value="úvod do css" />
     <MESSAGE value="úvod do formulářů" />
-    <option name="LAST_COMMIT_MESSAGE" value="úvod do formulářů" />
+    <MESSAGE value="input type range" />
+    <option name="LAST_COMMIT_MESSAGE" value="input type range" />
   </component>
 </project>
