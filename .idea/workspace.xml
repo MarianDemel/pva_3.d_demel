@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cc5f855-eb73-4f95-a8a2-f2213f4e9110" name="Changes" comment="formulare" />
+    <list default="true" id="5cc5f855-eb73-4f95-a8a2-f2213f4e9110" name="Changes" comment="vysvetlivky" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,19 +25,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/Documents/Mr/Škola/3. ročník/PVA2/formular&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/admin/Documents/Mr/Škola/3. ročník/PVA2/id_a_class",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\admin\Documents\Mr\Škola\3. ročník\PVA2\formular" />
@@ -60,6 +60,7 @@
       <workItem from="1727265198757" duration="208000" />
       <workItem from="1727422541075" duration="595000" />
       <workItem from="1727430677381" duration="206000" />
+      <workItem from="1727719382001" duration="302000" />
     </task>
     <task id="LOCAL-00001" summary="první commit">
       <option name="closed" value="true" />
@@ -157,7 +158,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727430763585</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="vysvetlivky">
+      <option name="closed" value="true" />
+      <created>1727719558017</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1727719558017</updated>
+    </task>
+    <task id="LOCAL-00014" summary="vysvetlivky">
+      <option name="closed" value="true" />
+      <created>1727719669778</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1727719669778</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,6 +187,7 @@
     <MESSAGE value="úvod do formulářů" />
     <MESSAGE value="input type range" />
     <MESSAGE value="formulare" />
-    <option name="LAST_COMMIT_MESSAGE" value="formulare" />
+    <MESSAGE value="vysvetlivky" />
+    <option name="LAST_COMMIT_MESSAGE" value="vysvetlivky" />
   </component>
 </project>
