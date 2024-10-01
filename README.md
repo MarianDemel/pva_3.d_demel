@@ -41,3 +41,9 @@
 - ***vysvětlivky***
 - [vysvetlivky.html](https://mariandemel.github.io/pva_3.d_demel/id_a_class/vysvetlivky.html)
 - [repo](https://github.com/MarianDemel/pva_3.d_demel/blob/main/id_a_class/vysvetlivky.html)
+
+## ikony, fonty, flexboxy
+### 01.10.2024
+- ***úkoly z hodiny***
+- [menu.html](https://mariandemel.github.io/pva_3.d_demel/fonty_ikony_flexboxy/menu.html)
+- [repo](https://github.com/MarianDemel/pva_3.d_demel/blob/main/fonty_ikony_flexboxy/menu.html)
