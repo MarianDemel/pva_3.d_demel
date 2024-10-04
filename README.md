@@ -47,3 +47,6 @@
 - ***úkoly z hodiny***
 - [menu.html](https://mariandemel.github.io/pva_3.d_demel/fonty_ikony_flexboxy/menu.html)
 - [repo](https://github.com/MarianDemel/pva_3.d_demel/blob/main/fonty_ikony_flexboxy/menu.html)
+- ***flexboxy***
+- [flexbox.html](https://mariandemel.github.io/pva_3.d_demel/fonty_ikony_flexboxy/flexbox.html)
+- [repo](https://github.com/MarianDemel/pva_3.d_demel/blob/main/fonty_ikony_flexboxy/flexbox.html)
