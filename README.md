@@ -50,3 +50,9 @@
 - ***flexboxy***
 - [flexbox.html](https://mariandemel.github.io/pva_3.d_demel/fonty_ikony_flexboxy/flexbox.html)
 - [repo](https://github.com/MarianDemel/pva_3.d_demel/blob/main/fonty_ikony_flexboxy/flexbox.html)
+
+## showcase
+### 03.10.2024
+-***showcase v hodině*** - Papírová pera
+- [showcase.html](https://mariandemel.github.io/pva_3.d_demel/showcase/showcase.html)
+- [repo](https://github.com/MarianDemel/pva_3.d_demel/blob/main/showcase/showcase.html)
