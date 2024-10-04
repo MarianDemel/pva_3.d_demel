@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Papírová pera</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer">
+
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        .l-heading {
+            font-size: 4rem;
+            margin-bottom: 0.75rem;
+            line-height: 1.1;
+        }
+        .lead {
+            font-size: 1rem;
+        }
+        .btn {
+            display: inline-block;
+            color: black;
+            background-color: #dfd3c3;
+            padding: 1rem 2rem;
+            margin: 30px 0;
+            border: none;
+            border-radius: 5px;
+            font-weight: bold;
+
+        }
+        .btn:hover {
+            background-color: #c7b198;
+            color: white;
+        }
+        #navbar {
+            background-color: #dfd3c3;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding-left: 15px;
+            height: 50px;
+        }
+        #navbar ul {
+            display: flex;
+            list-style: none;
+            align-items: center;
+        }
+        #navbar ul li a {
+            text-decoration: none;
+            margin: 0 12px;
+            padding: 12px;
+            border-radius: 5px;
+            color: black;
+            text-transform: uppercase;
+        }
+        #navbar ul li a:hover {
+            background-color: #c7b198;
+            color: white;
+        }
+        #showcase {
+            background: black url("../img/showcase.jpg") no-repeat center center/cover;  
+            height: 100vh;
+            color: white;
+
+        }
+        #showcase .showcase-content {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100%;
+            text-align: center;
+            padding: 0 2rem;
+            background-color: rgba(0, 0, 0, 0.5);
+
+        }
+
+    </style>
+</head>
+<body>
+    <nav id="navbar">
+        <div class="logo"> <i class="fa-solid fa-pen-nib"></i> Paper's Pens</div>
+        <ul>
+            <li><a href="#home"> <i class="fa-solid fa-bars"></i> Home</a></li>
+            <li><a href="#form"> <i class="fa-solid fa-table-list"></i></i> Form</a></li>
+            <li><a href="#contact"> <i class="fa-solid fa-address-card"></i></i> Contact</a></li>
+        </ul>
+
+    </nav>
+   <!--#showcase>.showcase-content>h1.l-heading+p.lead+a.--> 
+<div id="showcase">
+    <div class="showcase-content">
+        <h1 class="l-heading">Papírová pera</h1>
+        <p class="lead">Naše firma přináší na trh luxusní kolekci papírových per.</p>
+        <a href="" class="btn">Chci se dozvědět více</a>
+    </div>
+
+
+    <!-- Photo by <a href="https://unsplash.com/@kellysikkema?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Kelly Sikkema</a> on <a href="https://unsplash.com/photos/pens-near-white-paper-N3o-leQyFsI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> -->
+  
+</div>
+</body>
+</html>

@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cc5f855-eb73-4f95-a8a2-f2213f4e9110" name="Changes" comment="fonty, flexbox, ikony">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonty_ikony_flexboxy/flexbox.html" beforeDir="false" afterPath="$PROJECT_DIR$/fonty_ikony_flexboxy/flexbox.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonty_ikony_flexboxy/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/fonty_ikony_flexboxy/menu.html" afterDir="false" />
-    </list>
+    <list default="true" id="5cc5f855-eb73-4f95-a8a2-f2213f4e9110" name="Changes" comment="flexboxy" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +63,7 @@
       <workItem from="1727430677381" duration="206000" />
       <workItem from="1727719382001" duration="1373000" />
       <workItem from="1727781259429" duration="217000" />
-      <workItem from="1728021266862" duration="517000" />
+      <workItem from="1728021266862" duration="647000" />
     </task>
     <task id="LOCAL-00001" summary="první commit">
       <option name="closed" value="true" />
@@ -214,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727781449473</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="flexboxy">
+      <option name="closed" value="true" />
+      <created>1728021911496</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1728021911496</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,6 +232,7 @@
     <MESSAGE value="formulare" />
     <MESSAGE value="vysvetlivky" />
     <MESSAGE value="fonty, flexbox, ikony" />
-    <option name="LAST_COMMIT_MESSAGE" value="fonty, flexbox, ikony" />
+    <MESSAGE value="flexboxy" />
+    <option name="LAST_COMMIT_MESSAGE" value="flexboxy" />
   </component>
 </project>
