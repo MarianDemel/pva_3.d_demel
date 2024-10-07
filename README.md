@@ -4,7 +4,6 @@
 
 
 ## html1
-
 ### 10.09.2024
 - ***úvodní hodina***
 - [demel.html](https://mariandemel.github.io/pva_3.d_demel/html1/demel.html)
