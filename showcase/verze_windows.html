@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Historie Windows</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+
+    <style>
+      * {
+       box-sizing: border-box;
+       margin: 0;
+       padding: 0;
+       }
+       body {
+        font-family: "PT Sans", sans-serif;
+        }
+        .l-heading {
+        font-size: 4rem;
+        margin-bottom: 0.75rem;
+        line-height: 1.1;
+        }
+        .lead {
+        font-size: 1rem;
+        }
+        .btn {
+        display: inline-block;
+        color: #f5ebeb;
+        background-color: #070f4e;
+        padding: 1rem 2rem;
+        margin: 30px 0;
+        border: none;
+        border-radius: 5px;
+        font-weight: bold;
+
+        }
+        .btn:hover {
+        color: #f5ebeb;
+        background-color: #3ab1c8;
+        }
+       #navbar {
+        background-color: #070f4e;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding-left: 15px;
+        height: 50px;
+       }
+       #navbar ul {
+        display: flex;
+        list-style: none;
+        align-items: center;
+       }
+       #navbar ul li a {
+        text-decoration: none;
+        margin: 0 12px;
+        padding: 12px;
+        border-radius: 5px;
+        color: #f5ebeb;
+        text-transform: uppercase;
+       }
+       #navbar ul li a:hover {
+        background-color: #3ab1c8;
+        color: #f5ebeb;
+       }
+       .logo {
+        color: #f5ebeb;
+       }
+       #showcase {
+        background: black url("../img/windows_logo.jpg") no-repeat center center/cover;
+        height: 100vh;
+        color: #f5ebeb;
+       }
+       .showcase-content {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+        text-align: center;
+        padding: 0 2rem;
+        background-color: rgba(0, 0, 0, 0.4);
+       }
+       .tables-content {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+        text-align: center;
+        padding: 0 2rem;
+
+       }
+
+       #tables {
+        height: 60vh;
+        background-color: #f5ebeb;
+        color: #070f4e;
+        }
+
+        .tables td {
+        border: 1px solid #ddd;
+        padding: 8px;
+        margin: 100px;
+        }
+        .tables tr:hover {background-color: #3ab1c8;color: #f5ebeb;}
+         
+    </style>
+</head>
+<body>
+    <nav id="navbar">
+        <div class="logo"> <i class="fa-brands fa-windows"></i> Historie OS Windows</div>
+        <ul>
+            <li><a href="#home"> <i class="fa-solid fa-house"></i> Home</a></li>
+            <li><a href="#calendar"> <i class="fa-regular fa-calendar"></i> Calendar</a></li>
+            <li><a href="#home"> <i class="fa-solid fa-phone"></i> Kontakt</a></li>
+        </ul>
+    </nav>
+
+<div id="showcase">
+        <div class="showcase-content">
+            <h1 class="l-heading">Historie OS Windows</h1>
+            <p class="lead">Od MS-DOS po Windows 11</p>
+            <a href="" class="btn">Chci vědět víc</a>
+    </div>
+
+    <div id="tables">
+        <div class="tables-content">
+            <h1 class="tables-title">Jednotlivé verze Windows od roku 1985</h1>
+            <table class="tables">
+                <thead>
+                    <tr>
+                        <th colspan="2">Historie <i class="fa-brands fa-windows"></i> Windows a rok vydání</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>MS DOS</td>
+                        <td>1981</td>
+                    </tr>
+                    <tr>
+                        <td>Windows 1</td>
+                        <td>1985</td>
+                    </tr>
+                    <tr>
+                        <td>Windows 3.1</td>
+                        <td>1992</td>
+                    </tr>
+                    <tr>
+                        <td>Windows 95</td>
+                        <td>1995</td>
+                    </tr>
+                    <tr>
+                        <td>Windows XP</td>
+                        <td>2001</td>
+                    </tr>
+                    <tr>
+                        <td>Windows Vista</td>
+                        <td>2006</td>
+                    </tr>
+                    <tr>
+                        <td>Windows 7</td>
+                        <td>2009</td>
+                    </tr>
+                    <tr>
+                        <td>Windows 8</td>
+                        <td>2012</td>
+                    </tr>
+                    <tr>
+                        <td>Windows 10</td>
+                        <td>2015</td>
+                    </tr>
+                    <tr>
+                        <td>Windows 11</td>
+                        <td>2021</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+<!--pomocný zdroj tabulky: https://www.w3schools.com/Css/css_table.asp-->
+
+</div>
+</body>
+</html>

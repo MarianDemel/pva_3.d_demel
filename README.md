@@ -56,3 +56,9 @@
 - ***showcase v hodině*** - Papírová pera
 - [showcase.html](https://mariandemel.github.io/pva_3.d_demel/showcase/showcase.html)
 - [repo](https://github.com/MarianDemel/pva_3.d_demel/blob/main/showcase/showcase.html)
+
+## samostatná práce – Historie Windows
+### od 03.10.2024
+- ***projekt na vlastní téma*** - Historie OS Windows
+- [verze_windows.html](https://mariandemel.github.io/pva_3.d_demel/showcase/verze_windows.html)
+- [repo](https://github.com/MarianDemel/pva_3.d_demel/blob/main/showcase/verze_windows.html)
