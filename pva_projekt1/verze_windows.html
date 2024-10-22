@@ -8,114 +8,13 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
-
-    <style>
-      * {
-       box-sizing: border-box;
-       margin: 0;
-       padding: 0;
-       }
-       body {
-        font-family: "PT Sans", sans-serif;
-        }
-        .l-heading {
-        font-size: 4rem;
-        margin-bottom: 0.75rem;
-        line-height: 1.1;
-        }
-        .lead {
-        font-size: 1rem;
-        }
-        .btn {
-        display: inline-block;
-        color: #f5ebeb;
-        background-color: #070f4e;
-        padding: 1rem 2rem;
-        margin: 30px 0;
-        border: none;
-        border-radius: 5px;
-        font-weight: bold;
-
-        }
-        .btn:hover {
-        color: #f5ebeb;
-        background-color: #3ab1c8;
-        }
-       #navbar {
-        background-color: #070f4e;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        padding-left: 15px;
-        height: 50px;
-       }
-       #navbar ul {
-        display: flex;
-        list-style: none;
-        align-items: center;
-       }
-       #navbar ul li a {
-        text-decoration: none;
-        margin: 0 12px;
-        padding: 12px;
-        border-radius: 5px;
-        color: #f5ebeb;
-        text-transform: uppercase;
-       }
-       #navbar ul li a:hover {
-        background-color: #3ab1c8;
-        color: #f5ebeb;
-       }
-       .logo {
-        color: #f5ebeb;
-       }
-       #showcase {
-        background: black url("../img/windows_logo.jpg") no-repeat center center/cover;
-        height: 100vh;
-        color: #f5ebeb;
-       }
-       .showcase-content {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        height: 100%;
-        text-align: center;
-        padding: 0 2rem;
-        background-color: rgba(0, 0, 0, 0.4);
-       }
-       .tables-content {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        height: 100%;
-        text-align: center;
-        padding: 0 2rem;
-       }
-
-       #tables {
-        height: 60vh;
-        background-color: #f5ebeb;
-        color: #070f4e;
-        }
-
-        .tables td {
-        border: 1px solid #ddd;
-        padding: 0 2rem;
-        border-radius: 7px;
-        }
-        .tables tbody tr:hover {
-        background-color: #3ab1c8;color: #f5ebeb;
-        }
-        
-    </style>
+    <link rel="stylesheet" href="./styles.css">
 </head>
 <body>
     <nav id="navbar">
         <div class="logo"> <i class="fa-brands fa-windows"></i> Historie OS Windows</div>
         <ul>
-            <li><a href="#home"> <i class="fa-solid fa-house"></i> Home</a></li>
+            <li><a href="#showcase"> <i class="fa-solid fa-house"></i> Home</a></li>
             <li><a href="#tables"> <i class="fa-solid fa-clock-rotate-left"></i> Historie</a></li>
             <li><a href="#contact"> <i class="fa-solid fa-phone"></i> Kontakt</a></li>
         </ul>
@@ -182,8 +81,63 @@
             </table>
         </div>
     </div>
-<!--pomocný zdroj tabulky: https://www.w3schools.com/Css/css_table.asp -->
 
+    <section id="wallpaper">
+        <div class="content">
+            <h2>Ikonická tapeta Windows</h2>
+        </div>
+    </section>
+
+    <!--zdroj obrázku: https://th.bing.com/th?id=OIF.B6ThrDa2e%2f71A81c3vzPVQ&rs=1&pid=ImgDetMain -->
+
+<!--ikony-->
+<section id="what" class="py-1">
+    <div class="container">
+        <h2 class="text-center m-heading">Zajímavosti</h2>
+        <div class="items">
+            <div class="item">
+                <i class="fa-solid fa-user"></i>
+                <div>
+                    <h3>Vědeli jste, že..?</h3>
+                    <p>..jedním ze zakladatelů je Bill Gates.</p>
+                </div>
+            </div>
+
+            <div class="item">
+                <i class="fa-brands fa-windows"></i>
+
+                <div>
+                    <h3>Vědeli jste, že..?</h3>
+                    <p>..historicky první Windows vyšel 20. listopadu 1985.</p>
+                </div>
+
+            </div>
+
+            <div class="item">
+                <i class="fa-solid fa-signature"></i>
+
+                <div>
+                    <h3>Věděli jste, že..?</h3>
+                    <p>..se Windows měl jmenovat "Interface Manager", ale nakonec se jmenuje Windows, protože lépe vystihoval koncept okének (windows) ve GUI.</p>
+                </div>
+
+            </div>
+
+
+        </div>
+    </div>
+</section>
+
+<!--Historická loga OS Windows-->
+
+<div class="history">
+    <h2>Historická loga OS Windows</h2>
 </div>
+
+<!--pomocný zdroj tabulky: https://www.w3schools.com/Css/css_table.asp -->
+<!--přidání linku kaskádových stylů: <link rel="stylesheet" href="./styles.css"> --> 
+
+
+
 </body>
 </html>

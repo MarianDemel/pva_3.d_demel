@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cc5f855-eb73-4f95-a8a2-f2213f4e9110" name="Changes" comment="samostatná práce - OS Windows" />
+    <list default="true" id="5cc5f855-eb73-4f95-a8a2-f2213f4e9110" name="Changes" comment="samostatná práce - OS Windows">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/showcase/verze_windows.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +33,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/Documents/Mr/Škola/3. ročník/PVA2/id_a_class&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/PycharmProjects/snakegame&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -67,6 +70,10 @@
       <workItem from="1728027478719" duration="421000" />
       <workItem from="1728312734435" duration="1423000" />
       <workItem from="1728384255655" duration="118000" />
+      <workItem from="1728384879310" duration="106000" />
+      <workItem from="1728497453003" duration="558000" />
+      <workItem from="1728627369184" duration="1049000" />
+      <workItem from="1729233325080" duration="688000" />
     </task>
     <task id="LOCAL-00001" summary="první commit">
       <option name="closed" value="true" />
@@ -292,7 +299,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728384366607</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="samostatná práce - OS Windows">
+      <option name="closed" value="true" />
+      <created>1728384906584</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1728384906584</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
