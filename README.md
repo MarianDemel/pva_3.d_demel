@@ -59,5 +59,5 @@
 ## samostatná práce – Historie Windows
 ### od 03.10.2024
 - ***projekt na vlastní téma*** - Historie OS Windows
-- [verze_windows.html](https://mariandemel.github.io/pva_3.d_demel/showcase/verze_windows.html)
-- [repo](https://github.com/MarianDemel/pva_3.d_demel/blob/main/showcase/verze_windows.html)
+- [verze_windows.html](https://mariandemel.github.io/pva_3.d_demel/pva_projekt1/verze_windows.html)
+- [repo](https://github.com/MarianDemel/pva_3.d_demel/blob/main/pva_projekt1/verze_windows.html)
