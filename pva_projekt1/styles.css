@@ -157,7 +157,7 @@
      color: #f5ebeb;
      }
      #wallpaper {
-      background-image: url("../img/wallpaperjpg.jpg");
+      background-image: url("https://i.pinimg.com/originals/3a/7a/f7/3a7af7d4913f70dc93f9e79dcdc98ad8.jpg");
       height: 500px;
   
       background-attachment: fixed;
@@ -181,13 +181,22 @@
       padding: 0.5rem;
       }
 
-      .history h2 {
+      .history {
          display: flex;
-         flex-direction: column;
          justify-content: center;
          align-items: center;
-         height: 100%;
+         height: 60%;
          text-align: center;
-         padding: 0 2rem;
          color: #070f4e;
       }
+     
+     .history h2 {
+         margin: 0; 
+         padding-right: 10px; 
+     }
+     
+     .history img {
+         max-width: 30rem;
+         height: 20rem;
+     }
+     

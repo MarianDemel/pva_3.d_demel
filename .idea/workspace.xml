@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cc5f855-eb73-4f95-a8a2-f2213f4e9110" name="Changes" comment="samostatná práce - OS Windows">
+    <list default="true" id="5cc5f855-eb73-4f95-a8a2-f2213f4e9110" name="Changes" comment="pokračování v samostatné práci - OS Windows">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/showcase/verze_windows.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pva_projekt1/verze_windows.html" beforeDir="false" afterPath="$PROJECT_DIR$/pva_projekt1/verze_windows.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +74,12 @@
       <workItem from="1728497453003" duration="558000" />
       <workItem from="1728627369184" duration="1049000" />
       <workItem from="1729233325080" duration="688000" />
+      <workItem from="1729595362088" duration="394000" />
+      <workItem from="1729961630157" duration="941000" />
+      <workItem from="1729969808180" duration="602000" />
+      <workItem from="1730037251100" duration="615000" />
+      <workItem from="1730142032622" duration="90000" />
+      <workItem from="1730213181017" duration="1130000" />
     </task>
     <task id="LOCAL-00001" summary="první commit">
       <option name="closed" value="true" />
@@ -307,7 +313,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728384906584</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="pokračování v samostatné práci - OS Windows">
+      <option name="closed" value="true" />
+      <created>1729595399371</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1729595399371</updated>
+    </task>
+    <task id="LOCAL-00031" summary="pokračování v samostatné práci - OS Windows">
+      <option name="closed" value="true" />
+      <created>1729595561178</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1729595561178</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -325,6 +347,7 @@
     <MESSAGE value="flexboxy" />
     <MESSAGE value="showcase" />
     <MESSAGE value="samostatná práce - OS Windows" />
-    <option name="LAST_COMMIT_MESSAGE" value="samostatná práce - OS Windows" />
+    <MESSAGE value="pokračování v samostatné práci - OS Windows" />
+    <option name="LAST_COMMIT_MESSAGE" value="pokračování v samostatné práci - OS Windows" />
   </component>
 </project>

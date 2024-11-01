@@ -1,0 +1,73 @@
+#what .items {
+    display: block;
+    padding: 1rem;
+}
+
+/* Zarovnání ikon do leva */
+#what .items .item {
+    display: flex;
+    text-align: left;
+}
+/* Pozice ikon */
+#what .items .item i {
+    margin-right: 1.3rem;
+    align-self: center;
+    margin-bottom: 0;
+}
+
+/* Smartphone */
+@media(max-width: 550px) {
+    #navbar {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #navbar #logo {
+        margin-bottom: 1rem;
+        text-align: center;
+    }
+
+    #showcase .showcase-content {
+        top: 100px;
+    }
+
+    .history {
+        width: 100%;
+        display: flex;
+        flex-direction: column; /* Prvky se zobrazí ve sloupci */
+        align-items: center;    /* Zarovná obsah na střed */
+        text-align: center;     /* Vycentruje text */
+    }
+
+    .history h2 {
+        padding-right: 0; /* Odstraní mezery na pravé straně */
+        margin-bottom: 0.5rem; /* Přidá mezeru pod nadpisem */
+    }
+
+    .history img {
+        max-width: 100%; /* Obrázek zabere 100 % šířky kontejneru */
+        height: auto;    /* Zachová poměr stran */
+    }
+}
+
+
+
+
+@media(max-height: 568px) {
+    .l-heading {
+        font-size: 2rem;
+    }
+
+    #navbar {
+        align-items: flex-start;
+    }
+
+    #navbar ul {
+        flex-wrap: wrap;
+        align-items: flex-start;
+    }
+
+    #navbar ul li a{
+        padding: 0 1rem;
+    }
+}
