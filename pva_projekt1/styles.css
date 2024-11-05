@@ -199,4 +199,23 @@
          max-width: 30rem;
          height: 20rem;
      }
+
      
+     @media (max-height: 568px) {
+      .tables-title {
+          font-size: 1.5rem; 
+          text-align: center;
+      }
+  
+      #tables {
+          padding: 0.5rem;
+          height: auto; 
+          min-height: 100vh; 
+          overflow-y: auto; 
+      }
+  
+      .tables th, .tables td {
+          padding: 0.4rem; 
+          font-size: 0.9rem; 
+      }
+  }

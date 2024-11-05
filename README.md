@@ -61,3 +61,14 @@
 - ***projekt na vlastní téma*** - Historie OS Windows
 - [verze_windows.html](https://mariandemel.github.io/pva_3.d_demel/pva_projekt1/verze_windows.html)
 - [repo](https://github.com/MarianDemel/pva_3.d_demel/blob/main/pva_projekt1/verze_windows.html)
+
+## responsivní design
+### 01.11.2024
+- implementace do projektu
+
+## pokračování v samostatné práci - Historie Windows
+### od 03.10.2024 přes 05.11.2024
+- již brzy [video o projektu](youtube)
+- rozšíření o kontaktní formulář
+- [verze_windows.html](https://mariandemel.github.io/pva_3.d_demel/pva_projekt1/verze_windows.html)
+- [repo](https://github.com/MarianDemel/pva_3.d_demel/blob/main/pva_projekt1/verze_windows.html)

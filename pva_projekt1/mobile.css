@@ -15,11 +15,16 @@
     margin-bottom: 0;
 }
 
+.back-btn {
+    display: none;
+}
+
 /* Smartphone */
 @media(max-width: 550px) {
     #navbar {
         flex-direction: column;
         align-items: center;
+        height: 60px;
     }
 
     #navbar #logo {
@@ -34,26 +39,25 @@
     .history {
         width: 100%;
         display: flex;
-        flex-direction: column; /* Prvky se zobrazí ve sloupci */
-        align-items: center;    /* Zarovná obsah na střed */
-        text-align: center;     /* Vycentruje text */
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
     }
 
     .history h2 {
-        padding-right: 0; /* Odstraní mezery na pravé straně */
-        margin-bottom: 0.5rem; /* Přidá mezeru pod nadpisem */
+        padding-right: 0;
+        margin-bottom: 0.5rem; 
     }
 
     .history img {
-        max-width: 100%; /* Obrázek zabere 100 % šířky kontejneru */
-        height: auto;    /* Zachová poměr stran */
+        max-width: 100%;
+        height: auto;    
     }
 }
 
 
 
-
-@media(max-height: 568px) {
+@media (max-height: 568px) {
     .l-heading {
         font-size: 2rem;
     }
@@ -65,9 +69,28 @@
     #navbar ul {
         flex-wrap: wrap;
         align-items: flex-start;
+        width: 100%; 
     }
 
-    #navbar ul li a{
+    #navbar ul li a {
         padding: 0 1rem;
     }
+
+    .tables-title {
+        font-size: 1.5rem;
+        text-align: center;
+    }
+
+    #tables {
+        padding: 0.5rem;
+        height: auto;
+        min-height: 100vh;
+        overflow-y: auto; 
+    }
+
+    .tables th, .tables td {
+        padding: 0.4rem; 
+        font-size: 0.9rem; /
+    }
+
 }
