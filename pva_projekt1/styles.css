@@ -219,3 +219,10 @@
           font-size: 0.9rem; 
       }
   }
+
+  @media (min-height: 700px) {
+        #tables {
+            height: 50vh;
+            }
+    
+  }

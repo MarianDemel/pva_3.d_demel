@@ -18,17 +18,18 @@ body {
     top: 1rem;
     right: 1rem;
     padding: 0.5rem 1rem;
-    background-color: #4A90E2; /* Modrá barva tlačítka */
-    color: white; /* Bílý text */
-    text-decoration: none; /* Bez podtržení */
-    border-radius: 4px; /* Lehce zaoblené rohy */
+    background-color: #4A90E2;
+    color: white;
+    text-decoration: none; 
+    border-radius: 4px;
     font-size: 1rem;
     font-weight: bold;
 
 }
 
 .back-btn:hover {
-    background-color: #357ABD; /* Změna barvy na hover */
+    background-color: #357ABD;
+    text-decoration: none; 
 }
 
 
