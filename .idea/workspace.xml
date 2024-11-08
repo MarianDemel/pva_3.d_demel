@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cc5f855-eb73-4f95-a8a2-f2213f4e9110" name="Changes" comment="malé úpravy">
-      <change beforePath="$PROJECT_DIR$/pva_projekt1/mobile.css" beforeDir="false" afterPath="$PROJECT_DIR$/pva_projekt1/mobile.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pva_projekt1/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/pva_projekt1/styles.css" afterDir="false" />
-    </list>
+    <list default="true" id="5cc5f855-eb73-4f95-a8a2-f2213f4e9110" name="Changes" comment="úpravy responzivnosti" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,6 +82,7 @@
       <workItem from="1730580621931" duration="209000" />
       <workItem from="1730808443336" duration="414000" />
       <workItem from="1731011623620" duration="614000" />
+      <workItem from="1731050397806" duration="56000" />
     </task>
     <task id="LOCAL-00001" summary="první commit">
       <option name="closed" value="true" />
@@ -358,7 +356,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731011641303</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="úpravy responzivnosti">
+      <option name="closed" value="true" />
+      <created>1731050422629</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1731050422629</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -379,6 +385,7 @@
     <MESSAGE value="pokračování v samostatné práci - OS Windows" />
     <MESSAGE value="responzivní design, kontaktní formulář" />
     <MESSAGE value="malé úpravy" />
-    <option name="LAST_COMMIT_MESSAGE" value="malé úpravy" />
+    <MESSAGE value="úpravy responzivnosti" />
+    <option name="LAST_COMMIT_MESSAGE" value="úpravy responzivnosti" />
   </component>
 </project>
