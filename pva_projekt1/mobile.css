@@ -1,3 +1,5 @@
+/* Pro maximální šířku 550 pixelů */
+
 #what .items {
     display: block;
     padding: 1rem;
@@ -19,41 +21,69 @@
     display: none;
 }
 
-/* Smartphone */
-@media(max-width: 550px) {
-    #navbar {
-        flex-direction: column;
-        align-items: center;
-        height: 60px;
-    }
 
-    #navbar #logo {
-        margin-bottom: 1rem;
-        text-align: center;
-    }
-
-    #showcase .showcase-content {
-        top: 100px;
-    }
-
-    .history {
-        width: 100%;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        text-align: center;
-    }
-
-    .history h2 {
-        padding-right: 0;
-        margin-bottom: 0.5rem; 
-    }
-
-    .history img {
-        max-width: 100%;
-        height: auto;    
-    }
+#navbar ul li a:hover {
+    background-color: transparent;
 }
+
+.tables-title {
+    font-size: 1.5rem; 
+    text-align: center;
+}
+
+#tables {
+    padding: 0.5rem;
+    height: auto; 
+    min-height: 100vh; 
+    overflow-y: auto; 
+}
+
+.tables th, .tables td {
+    padding: 0.4rem; 
+    font-size: 0.9rem; 
+}
+
+#navbar {
+    flex-direction: column;
+    align-items: center;
+    height: 60px;
+}
+
+#navbar ul li a {
+    padding-bottom: 12px 12px;
+}
+
+#navbar ul li a span {
+    display: none;
+}
+
+#navbar #logo {
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+#showcase .showcase-content {
+    top: 100px;
+}
+
+.history {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.history h2 {
+    padding-right: 0;
+    margin-bottom: 0.5rem; 
+}
+
+.history img {
+    max-width: 100%;
+    height: auto;    
+}
+
 
 
 
