@@ -37,9 +37,8 @@
 }
 
 #tables {
-    padding: 0.5rem;
-    height: auto; 
-    min-height: 100vh; 
+    padding: 0.5px;
+    height: 30rem; 
     overflow-y: auto; 
 }
 

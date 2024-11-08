@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cc5f855-eb73-4f95-a8a2-f2213f4e9110" name="Changes" comment="úpravy responzivnosti" />
+    <list default="true" id="5cc5f855-eb73-4f95-a8a2-f2213f4e9110" name="Changes" comment="menší úpravy (oříznutí obrázků apod.)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,6 +83,7 @@
       <workItem from="1730808443336" duration="414000" />
       <workItem from="1731011623620" duration="614000" />
       <workItem from="1731050397806" duration="56000" />
+      <workItem from="1731051621765" duration="103000" />
     </task>
     <task id="LOCAL-00001" summary="první commit">
       <option name="closed" value="true" />
@@ -364,7 +365,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731050422629</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="menší úpravy (oříznutí obrázků apod.)">
+      <option name="closed" value="true" />
+      <created>1731051673821</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1731051673821</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -386,6 +395,7 @@
     <MESSAGE value="responzivní design, kontaktní formulář" />
     <MESSAGE value="malé úpravy" />
     <MESSAGE value="úpravy responzivnosti" />
-    <option name="LAST_COMMIT_MESSAGE" value="úpravy responzivnosti" />
+    <MESSAGE value="menší úpravy (oříznutí obrázků apod.)" />
+    <option name="LAST_COMMIT_MESSAGE" value="menší úpravy (oříznutí obrázků apod.)" />
   </component>
 </project>
