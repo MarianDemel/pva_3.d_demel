@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cc5f855-eb73-4f95-a8a2-f2213f4e9110" name="Changes" comment="menší úpravy (oříznutí obrázků apod.)" />
+    <list default="true" id="5cc5f855-eb73-4f95-a8a2-f2213f4e9110" name="Changes" comment="úpravy přístupnosti">
+      <change beforePath="$PROJECT_DIR$/pva_projekt1/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/pva_projekt1/styles.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,6 +86,7 @@
       <workItem from="1731011623620" duration="614000" />
       <workItem from="1731050397806" duration="56000" />
       <workItem from="1731051621765" duration="103000" />
+      <workItem from="1731052202129" duration="662000" />
     </task>
     <task id="LOCAL-00001" summary="první commit">
       <option name="closed" value="true" />
@@ -373,7 +376,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731051673821</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="úpravy přístupnosti">
+      <option name="closed" value="true" />
+      <created>1731052258158</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1731052258158</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -396,6 +407,7 @@
     <MESSAGE value="malé úpravy" />
     <MESSAGE value="úpravy responzivnosti" />
     <MESSAGE value="menší úpravy (oříznutí obrázků apod.)" />
-    <option name="LAST_COMMIT_MESSAGE" value="menší úpravy (oříznutí obrázků apod.)" />
+    <MESSAGE value="úpravy přístupnosti" />
+    <option name="LAST_COMMIT_MESSAGE" value="úpravy přístupnosti" />
   </component>
 </project>
