@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="cs">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Typy kybernetických útoků</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    .navbar-brand {
+      font-weight: bold;
+    }
+
+    .hero {
+      background: #1d3557;
+      color: white;
+      padding: 50px 20px;
+      text-align: center;
+    }
+
+    .content-section {
+      padding: 40px 20px;
+    }
+
+    .bg-dark-blue {
+      background-color: #457b9d;
+      color: white;
+    }
+
+    footer {
+      background: #1d3557;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      margin-top: 20px;
+    }
+
+    h2 {
+      border-bottom: 2px solid #457b9d;
+      display: inline-block;
+      padding-bottom: 5px;
+    }
+  </style>
+</head>
+
+<body>
+  <!-- Navigační panel -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container-fluid">
+      <a class="navbar-brand">Bezpečnost na internetu</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link active" href="#malware">Malware</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#phishing">Phishing</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#ddos">DDoS útoky</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#ostatni">Ostatní útoky</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Hero sekce -->
+  <section class="hero">
+    <h1>Typy kybernetických útoků</h1>
+    <p>Jaké jsou momentálně nejnebezpečnější druhy útoků a jak se proti nim bránit.</p>
+  </section>
+
+  <!-- Sekce Malware -->
+  <section id="malware" class="content-section">
+    <div class="container">
+      <h2>Malware</h2>
+      <p>Malware je škodlivý software navržený k narušení nebo poškození počítačového systému.</p>
+      <ul>
+        <li><strong>Viry:</strong> Samoreplikační software, který infikuje soubory.</li>
+        <li><strong>Ransomware:</strong> Šifruje data oběti a požaduje výkupné.</li>
+        <li><strong>Spyware:</strong> Sleduje aktivitu uživatele a krade citlivé informace.</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- Sekce Phishing -->
+  <section id="phishing" class="content-section bg-light">
+    <div class="container">
+      <h2>Phishing</h2>
+      <p>Phishing je podvodná technika používaná k získávání citlivých údajů, jako jsou hesla nebo údaje o kreditních kartách.</p>
+      <ul>
+        <li>Falešné e-maily napodobující důvěryhodné organizace.</li>
+        <li>Podvodné webové stránky, které vypadají jako legitimní.</li>
+        <li>SMS nebo zprávy na sociálních sítích obsahující škodlivé odkazy.</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- Sekce DDoS -->
+  <section id="ddos" class="content-section bg-dark-blue">
+    <div class="container">
+      <h2>DDoS útoky</h2>
+      <p>DDoS (Distributed Denial of Service) útoky jsou zaměřeny na přetížení serveru, což způsobí, že není dostupný pro běžné uživatele.</p>
+      <ul>
+        <li><strong>Způsob útoku:</strong> Velký počet požadavků na server ze sítě botů (botnet).</li>
+        <li><strong>Důsledky:</strong> Výpadky webových stránek nebo online služeb.</li>
+        <li><strong>Ochrana:</strong> Použití firewallů a filtrování provozu.</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- Sekce Ostatní -->
+  <section id="ostatni" class="content-section bg-light">
+    <div class="container">
+      <h2>Ostatní útoky</h2>
+      <p>Existuje mnoho dalších typů kybernetických útoků, které mohou být velmi nebezpečné:</p>
+      <ul>
+        <li><strong>Man-in-the-Middle útoky:</strong> Útočník odposlouchává komunikaci mezi dvěma stranami.</li>
+        <li><strong>Zero-Day attack:</strong> Využívání neopravených bezpečnostních zranitelností.</li>
+        <li><strong>SQL Injection:</strong> Vkládání škodlivého kódu do databází.</li>
+        <li><strong>Brute Force útoky:</strong> Zkoušení hesel metodou pokus-omyl.</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; Lorem ipsum dolor sit amet.</p>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>

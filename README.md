@@ -72,3 +72,9 @@
 - rozšíření o kontaktní formulář
 - [verze_windows.html](https://mariandemel.github.io/pva_3.d_demel/pva_projekt1/verze_windows.html)
 - [repo](https://github.com/MarianDemel/pva_3.d_demel/blob/main/pva_projekt1/verze_windows.html)
+
+## Bootstrap
+### 15.11. 2024
+- Kyberbezpečnost - typy útoků
+- [kyberbezpecnost.html](https://mariandemel.github.io/pva_3.d_demel/pva_projekt2/kyberbezpecnost.html)
+- [repo](https://github.com/MarianDemel/pva_3.d_demel/blob/main/pva_projekt2/kyberbezpecnost.html)
