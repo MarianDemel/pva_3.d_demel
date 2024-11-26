@@ -68,13 +68,18 @@
 
 ## pokračování v samostatné práci - Historie Windows
 ### od 03.10.2024 přes 05.11.2024
-- již brzy [video o projektu](youtube)
 - rozšíření o kontaktní formulář
 - [verze_windows.html](https://mariandemel.github.io/pva_3.d_demel/pva_projekt1/verze_windows.html)
 - [repo](https://github.com/MarianDemel/pva_3.d_demel/blob/main/pva_projekt1/verze_windows.html)
 
 ## Bootstrap
-### od 15.11. 2024
+### od 15.11.2024
 - Kyberbezpečnost - typy útoků
 - [kyberbezpecnost.html](https://mariandemel.github.io/pva_3.d_demel/pva_projekt2/kyberbezpecnost.html)
 - [repo](https://github.com/MarianDemel/pva_3.d_demel/blob/main/pva_projekt2/kyberbezpecnost.html)
+
+## Harvard – project 0
+### 22.11.2024
+- zdroj zadání [zde](https://cs50.harvard.edu/web/2020/projects/0/search/?)
+- [vypracování](https://mariandemel.github.io/project0/)
+- [repo](https://github.com/MarianDemel/project0/blob/main/index.html)
