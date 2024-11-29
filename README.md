@@ -83,3 +83,8 @@
 - zdroj zadání [zde](https://cs50.harvard.edu/web/2020/projects/0/search/?)
 - [vypracování](https://mariandemel.github.io/project0/)
 - [repo](https://github.com/MarianDemel/project0/blob/main/index.html)
+
+## Převody jednotek
+### 29.11.2024
+- [vypracování](https://mariandemel.github.io/pva_3.d_demel/javascript/prevody.html)
+- [repo](https://github.com/MarianDemel/pva_3.d_demel/blob/main/javascript/prevody.html)
