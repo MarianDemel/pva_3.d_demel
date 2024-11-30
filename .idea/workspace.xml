@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cc5f855-eb73-4f95-a8a2-f2213f4e9110" name="Changes" comment="harvard project0">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="5cc5f855-eb73-4f95-a8a2-f2213f4e9110" name="Changes" comment="převody jednotek" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +97,7 @@
       <workItem from="1732370677447" duration="560000" />
       <workItem from="1732618199183" duration="284000" />
       <workItem from="1732865867881" duration="314000" />
-      <workItem from="1732868916973" duration="161000" />
+      <workItem from="1732868916973" duration="521000" />
     </task>
     <task id="LOCAL-00001" summary="první commit">
       <option name="closed" value="true" />
@@ -446,7 +443,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732618444854</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="převody jednotek">
+      <option name="closed" value="true" />
+      <created>1732869097976</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1732869097976</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -472,6 +477,7 @@
     <MESSAGE value="úpravy přístupnosti" />
     <MESSAGE value="PVA projekt 2 - Bootstrap" />
     <MESSAGE value="harvard project0" />
-    <option name="LAST_COMMIT_MESSAGE" value="harvard project0" />
+    <MESSAGE value="převody jednotek" />
+    <option name="LAST_COMMIT_MESSAGE" value="převody jednotek" />
   </component>
 </project>

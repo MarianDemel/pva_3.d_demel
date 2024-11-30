@@ -5,26 +5,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Převody stupňů</title>
     <script src="script.js"></script>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Převody stupňů celsia na stupně fahrenheita</h1>
-    <h4>1°C se rovná 33,8°F</h4>
-    <h4>1°F se rovná -17,2°C</h4>
-    
-        <p>
-            <label>Fahrenheit</label>
-            <input autofocus id="inputFahrenheit" type= "number" placeholder="Fahrenheit" oninput="temperatureConverter(this.value)" onchange="temperatureConverter(this.value)">
-        </p>
-        <p>Celsius: <span id="outputCelcius"></span></p>
 
-<br>
+    <div class="container">
+        <h1>Převody stupňů celsia na stupně fahrenheita a naopak</h1>
+        <h4>1°C se rovná 33,8°F</h4>
+        <h4>1°F se rovná -17,2°C</h4>
+        
+            <p>
+                <label>Fahrenheit</label>
+                <input autofocus id="inputFahrenheit" type= "number" placeholder="Fahrenheit" oninput="temperatureConverter(this.value)" onchange="temperatureConverter(this.value)">
+            </p>
+            <p>Celsius: <span id="outputCelcius"></span></p>
 
-        <p>
-            <label>Celsius</label>
-            <input id="inputCelsius" type= "number" placeholder="Celsius" oninput="temperatureConverter2(this.value)" onchange="temperatureConverter2(this.value)">
-        </p>
-        <p>Fahrenheit: <span id="outputFahrenheit"></span></p>
+    <br>
 
+            <p>
+                <label>Celsius</label>
+                <input id="inputCelsius" type= "number" placeholder="Celsius" oninput="temperatureConverter2(this.value)" onchange="temperatureConverter2(this.value)">
+            </p>
+            <p>Fahrenheit: <span id="outputFahrenheit"></span></p>
+    </div>    
     
     
 
@@ -33,5 +36,5 @@
 
 
 <!--pomocný zdroj: https://www.w3schools.com/howto/howto_js_temperature_converter.asp -->
-<!-- "n" = hodnota, kterou zadává uživatel -->
+<!-- "n" & "x" = hodnota, kterou zadává uživatel -->
  

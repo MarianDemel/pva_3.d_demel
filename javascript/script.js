@@ -14,7 +14,7 @@ function temperatureConverter(n) {
   /*
 
   parseFloat = převádí řetezec (string) na desetinné číslo (podobně jako float a string v pythonu)
-  "n" = hodnota, kterou zadává uživatel
+  "n" & "x" = hodnoty, kterou zadává uživatel
   
   k vytvoření kódu jsem nepoužil žádnou ai (pouze k vysvětlení funkce "parseFloat")
 
