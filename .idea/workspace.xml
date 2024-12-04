@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cc5f855-eb73-4f95-a8a2-f2213f4e9110" name="Changes" comment="převody jednotek" />
+    <list default="true" id="5cc5f855-eb73-4f95-a8a2-f2213f4e9110" name="Changes" comment="přidání kaskádových stylů" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,6 +98,7 @@
       <workItem from="1732618199183" duration="284000" />
       <workItem from="1732865867881" duration="314000" />
       <workItem from="1732868916973" duration="521000" />
+      <workItem from="1732973899338" duration="188000" />
     </task>
     <task id="LOCAL-00001" summary="první commit">
       <option name="closed" value="true" />
@@ -451,7 +452,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732869097976</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="přidání kaskádových stylů">
+      <option name="closed" value="true" />
+      <created>1732973924593</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1732973924593</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -478,6 +487,7 @@
     <MESSAGE value="PVA projekt 2 - Bootstrap" />
     <MESSAGE value="harvard project0" />
     <MESSAGE value="převody jednotek" />
-    <option name="LAST_COMMIT_MESSAGE" value="převody jednotek" />
+    <MESSAGE value="přidání kaskádových stylů" />
+    <option name="LAST_COMMIT_MESSAGE" value="přidání kaskádových stylů" />
   </component>
 </project>
