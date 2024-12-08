@@ -89,3 +89,8 @@ Případně na [webu](https://mariandemel.github.io/pva_3.d_demel/).
 ### 29.11.2024
 - [vypracování](https://mariandemel.github.io/pva_3.d_demel/javascript/prevody.html)
 - [repo](https://github.com/MarianDemel/pva_3.d_demel/blob/main/javascript/prevody.html)
+
+## Kalkulačka – vlastní projekt
+### 06.12.2024
+- [vypracování](https://mariandemel.github.io/kalkulacka-web/)
+- [repo](https://github.com/MarianDemel/kalkulacka-web/blob/main/index.html)
