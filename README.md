@@ -94,3 +94,7 @@ Případně na [webu](https://mariandemel.github.io/pva_3.d_demel/).
 ### 06.12.2024
 - [vypracování](https://mariandemel.github.io/kalkulacka-web/)
 - [repo](https://github.com/MarianDemel/kalkulacka-web/blob/main/index.html)
+
+## Game of life
+- [vypracování](https://mariandemel.github.io/pva_3.d_demel/game_of_life/index.html)
+- [repo](https://github.com/MarianDemel/pva_3.d_demel/blob/main/game_of_life/index.html)
