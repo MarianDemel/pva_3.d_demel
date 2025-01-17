@@ -1,6 +1,7 @@
 body {
   padding: 20px;
   background-color: #444;
+  place-items: center;
 }
 #gridContainer {
   padding-bottom: 10px;
@@ -24,3 +25,8 @@ td.live {
 #turnCounter {
   color: white;
 } 
+
+#debuginfo {
+  color: white;
+  padding: 0px 0px 0px 10px;
+}

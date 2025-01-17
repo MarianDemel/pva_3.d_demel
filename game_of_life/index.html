@@ -4,6 +4,11 @@
     <meta charset="UTF-8" />
     <title>The Game of Life</title>
     <link rel="stylesheet" href="life.css" />
+    <link
+    rel="stylesheet"
+    media="screen and (max-width: 550px)"
+    href="./mobile.css"
+    />
   </head>
   <body>
     <div id="gridContainer"></div>
@@ -11,7 +16,9 @@
     <div class="controls">
       <button id="start">start</button>
       <button id="clear">clear</button>
+      <button type="submit" onClick="random()">random</button>
       <span id="turnCounter">Turns: 0</span>
+      <span id="debuginfo"></span> <!--V tuto chvíli pouze ukazuje rozlišení-->
     </div>
 
     <script src="code.js"></script>

@@ -1,12 +1,44 @@
 var rows = 24;
 var cols = 24;
-var turnCount = 0; // Počítadlo tahů
+var turnCount = 0;
 var intervalId = null;
 
-function initialize() {
+// Nastavení mřížky podle velikosti obrazovky
+function adjustGridSize() {
+    if (window.innerWidth <= 550) {
+        rows = 15;
+        cols = 15;
+    } else {
+        rows = 24;
+        cols = 24;
+    }
+
+    clearGridContainer();
     createTable();
     randomizeGrid();
+    updateTurnCounter();
+}
+
+// Vyčištění mřížky před přegenerováním
+function clearGridContainer() {
+    var gridContainer = document.getElementById("gridContainer");
+    gridContainer.innerHTML = "";
+}
+
+function initialize() {
+    adjustGridSize();
     setupControls();
+
+    // Aktualizace rozlišení při změně velikosti okna
+    window.addEventListener("resize", () => {
+        adjustGridSize();
+        document.getElementById("debuginfo").textContent = 
+          `Resolution: ${window.innerWidth}x${window.innerHeight}`;
+    });
+
+    // zobrazování rozlišení dole pod gridem
+    document.getElementById("debuginfo").textContent = 
+      `Resolution: ${window.innerWidth}x${window.innerHeight}`;
 }
 
 function createTable() {
@@ -30,7 +62,7 @@ function createTable() {
     gridContainer.appendChild(table);
 }
 
-// Náhodné oživení buněk na začátku
+// random buňky na začátku (pomocí Math.random)
 function randomizeGrid() {
     for (var i = 0; i < rows; i++) {
         for (var j = 0; j < cols; j++) {
@@ -44,7 +76,6 @@ function randomizeGrid() {
     }
 }
 
-// Aktualizace ukazatele tahů
 function updateTurnCounter() {
     document.getElementById("turnCounter").innerText = "Turns: " + turnCount;
 }
@@ -76,7 +107,6 @@ function updateGrid(nextState) {
     }
 }
 
-// Počet živých sousedů pro buňku
 function countLiveNeighbors(row, col) {
     var count = 0;
     for (var i = -1; i <= 1; i++) {
@@ -97,7 +127,6 @@ function countLiveNeighbors(row, col) {
     return count;
 }
 
-
 function setupControls() {
     document.getElementById("start").addEventListener("click", function () {
         if (intervalId) {
@@ -105,7 +134,7 @@ function setupControls() {
             intervalId = null;
             this.innerText = "start";
         } else {
-            intervalId = setInterval(nextTurn, 500); // Každých 500 ms další tah
+            intervalId = setInterval(nextTurn, 500);
             this.innerText = "stop";
         }
     });
@@ -120,7 +149,6 @@ function setupControls() {
     });
 }
 
-
 function clearGrid() {
     for (var i = 0; i < rows; i++) {
         for (var j = 0; j < cols; j++) {
@@ -130,6 +158,10 @@ function clearGrid() {
     }
 }
 
+// rozhází buňky náhodně, po kliknutí na tlačítko se znovunačte web 
+function random(){
+    window.location.reload();
+} 
 
 function nextTurn() {
     turnCount++;
@@ -137,6 +169,5 @@ function nextTurn() {
     var nextState = computeNextState();
     updateGrid(nextState);
 }
-
 
 window.onload = initialize;
